@@ -1,0 +1,16 @@
+[
+{
+  "modid": "onewaycraft",
+  "name": "One Way Minecraft",
+  "description": "Worldgen altering mod inspired by the setting of One Way Heroics.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Faxn"],
+  "credits": "The tower of giant's on whose shoulders I stand.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
